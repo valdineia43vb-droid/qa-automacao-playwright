@@ -9,7 +9,7 @@ Projeto de testes automatizados E2E no site SauceDemo.
 
 ### 🚀 Tecnologias
 - Python
--`Playwright`
+- `Playwright`
 - Pytest
 
 ### ▶️ Como rodar
